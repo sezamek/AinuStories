@@ -1148,5 +1148,5 @@ translate polish strings:
 
     # game/script-ch0.rpy:19
     old "Coffee"
-    new "Kawa!"
+    new "Kawa"
 
